@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1946136516
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22a68f20d757c20039fc67da6853a726
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b55c2ecc818df8cf968bd012b34439e3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 22a68f20d757c20039fc67da6853a726
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a56e7e47ace81cd4393e9b35a787abe7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: subTestData
+Assets:
+- Assets/FatherGO.prefab
+Dependencies: []
